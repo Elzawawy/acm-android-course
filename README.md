@@ -16,8 +16,13 @@ You will add a second activity to GeoQuiz. An activity controls a screen of info
 and this activity will add a second screen that offers users a chance to see the answer to the current
 question.
 Why is this a good Android programming exercise? You will learn how to:
+
 • Create a new activity and a new layout for it.
+
 • Start an activity from another activity. Starting an activity means asking the OS to create an
 activity instance and call its onCreate(Bundle) method.
+
 • Pass data between the parent (starting) activity and the child (started) activity.
+
 • Also, we add Lifecycle Callbacks and use Logcat to better understand the activity lifecycle.
+
