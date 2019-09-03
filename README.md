@@ -5,16 +5,19 @@
 
 ## Assignments
 ### Assignment 1: GeoQuiz
-Originally from "Android Programminbg- The Big Nerd Ranch Guide" Chapter 1. 
+Originally from "Android Programminbg- The Big Nerd Ranch Guide" Chapter 1.
+
 The application you are going to create is called GeoQuiz. GeoQuiz tests the user’s knowledge of
 geography. The user presses True or False to answer the question on screen, and GeoQuiz provides
 instant feedback.
 
 ### Assignment 2: The Cheating GeoQuiz
 Originally from "Android Programminbg- The Big Nerd Ranch Guide" Chapter 5. 
+
 You will add a second activity to GeoQuiz. An activity controls a screen of information,
 and this activity will add a second screen that offers users a chance to see the answer to the current
 question.
+
 Why is this a good Android programming exercise? You will learn how to:
 
 • Create a new activity and a new layout for it.
