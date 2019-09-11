@@ -29,3 +29,12 @@ activity instance and call its onCreate(Bundle) method.
 
 • Also, we add Lifecycle Callbacks and use Logcat to better understand the activity lifecycle.
 
+### Assignment 3: The Cheat-Aware GeoQuiz
+In this version of GeoQuiz, we do modifications in order to receive updates from the Cheating Screen in the Quiz Screen about whether the user has used his cheating opportunity or not. See ? A cheat-aware GeoQuiz indeed.
+
+• We do this by learning about passing data from child activity to parent activity when we press the back button to navigate back to the parent. 
+
+• We also introduce a bug during the process "Configuration Changes".
+
+• We use an appropriate solution for it "InstanceState".
+
