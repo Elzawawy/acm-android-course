@@ -1,7 +1,9 @@
 # ACM Alexandria Student Chapter "TheXCourse: Android"
-* A repository for projects and skeletons for ACM Alexandria Student Chapter's "The X Course:Android".
+• A repository for projects and skeletons for ACM Alexandria Student Chapter's "The X Course:Android". It is an Android introductory level crash course. 
 
-* This work was done during my time working as an Android Instructor for ACM Alexandria Student Chapter.
+• This work was done during my time working as an Android Instructor for ACM Alexandria Student Chapter. Feel free to use it for learning purposes, and also to consult me if to be used for teaching purposes.
+
+• Assignments assets and Session slides can be found from [here.](https://drive.google.com/open?id=0Bx-ZcSSpiEC0flBlWnJoTldrbFpOY1JDVXVuVVBaSVYzSnNSMk1NMFZJRF9RcHE0bzZtZ0k)
 
 ## Assignments
 ### Assignment 1: GeoQuiz
