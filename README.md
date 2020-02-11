@@ -1,9 +1,11 @@
 # ACM Alexandria Student Chapter "TheXCourse: Android"
-* A repository for projects and skeletons for ACM Alexandria Student Chapter's "The X Course:Android". It is an Android introductory level crash course. 
-* This work was done during my time working as an Android Instructor for ACM Alexandria Student Chapter. Feel free to use it for learning purposes, and also to consult me if to be used for teaching purposes.
-* Assignments assets and Session slides can be found from [here.](https://drive.google.com/open?id=0Bx-ZcSSpiEC0flBlWnJoTldrbFpOY1JDVXVuVVBaSVYzSnNSMk1NMFZJRF9RcHE0bzZtZ0k)
-![alt](https://www.diygenius.com/wp-content/uploads/2015/06/android-apps-for-learning.jpg)
----
+* An Android introductory level crash course (7 sessions - 3 hours each).
+* This work was done during my short time working as an Android Instructor for ACM Alexandria Student Chapter. 
+* I have open sourced the assignments (Java) we built, feel free to use it for learning purposes. 
+* Assignments assets and Session slides can also be found from [here.](https://drive.google.com/open?id=0Bx-ZcSSpiEC0flBlWnJoTldrbFpOY1JDVXVuVVBaSVYzSnNSMk1NMFZJRF9RcHE0bzZtZ0k)
+
+<p align=center> <img src ='https://www.diygenius.com/wp-content/uploads/2015/06/android-apps-for-learning.jpg'/></p>
+
 ## Assignments
 ### Assignment 1: GeoQuiz
 Originally from "Android Programming- The Big Nerd Ranch Guide" Chapter 1.  
