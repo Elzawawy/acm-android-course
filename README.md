@@ -62,7 +62,10 @@ You can change between which is working from the Mainfest file by including the 
 * Learn all about RecyclerView and how to use it in code.
 
 ## Resources
-*1. Android Programming: The Big Nerd Ranch Guide by Bill Phillips, Chris Stewart and Kristin Marsicano *
-*2. [The Android Hive](https://www.androidhive.info/)*
-*3. [The Android Minworks Guide](https://mindorks.com/)*
-*4.  Programming Mobile Applications for Android Handheld Systems by University of Maryland, College Park*
+While this list has taught me much, you should not limit yousrself to one book, course or tutorial. I recommend you go the extra mile and explore whatever falls in your hand and always keep learning.
+
+1. *Android Programming: The Big Nerd Ranch Guide by Bill Phillips, Chris Stewart and Kristin Marsicano*
+2. *Programming Mobile Applications for Android Handheld Systems by University of Maryland, College Park*
+3. *[The Android Hive](https://www.androidhive.info/)*
+4. *[The Android Minworks Guide](https://mindorks.com/)*
+
