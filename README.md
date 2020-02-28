@@ -2,8 +2,8 @@
 * An Android introductory level crash course (7 sessions - 3 hours each).
 * This work was done during my short time working as an Android Instructor for ACM Alexandria Student Chapter. 
 * I have open sourced the assignments (Java) we built, feel free to use it for learning purposes. 
-* Assignments assets and Session slides can also be found from [here.](https://drive.google.com/open?id=0Bx-ZcSSpiEC0flBlWnJoTldrbFpOY1JDVXVuVVBaSVYzSnNSMk1NMFZJRF9RcHE0bzZtZ0k)
-
+* Assignments assets and Session slides can also be found in this repository such that anyone can re-create this crash course from his home at his own pace.
+<p align=center> Made with :heart: by <b>Amr Elzawawy</b>. Wish you a happy <b>learning journey</b> :book: </p>
 <p align=center> <img src ='https://www.diygenius.com/wp-content/uploads/2015/06/android-apps-for-learning.jpg'/></p>
 
 ## Assignments
@@ -60,3 +60,9 @@ You can change between which is working from the Mainfest file by including the 
 **Why is this a good Android programming exercise? You will learn how to:**
 * Learn all about ListView and how to use it in code.
 * Learn all about RecyclerView and how to use it in code.
+
+## Resources
+*1. Android Programming: The Big Nerd Ranch Guide by Bill Phillips, Chris Stewart and Kristin Marsicano *
+*2. [The Android Hive](https://www.androidhive.info/)*
+*3. [The Android Minworks Guide](https://mindorks.com/)*
+*4.  Programming Mobile Applications for Android Handheld Systems by University of Maryland, College Park*
