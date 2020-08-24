@@ -3,7 +3,7 @@
 * This work was done during my short time working as an Android Instructor for ACM Alexandria Student Chapter. 
 * I have open sourced the assignments (Java) we built, feel free to use it for learning purposes. 
 * Assignments assets and Session slides can also be found in this repository such that anyone can re-create this crash course from his home at his own pace.
-<p align=center> Made with :heart: by <b>Amr Elzawawy</b>. Wish you a happy <b>learning journey</b> :book: </p>
+
 <p align=center> <img src ='https://www.diygenius.com/wp-content/uploads/2015/06/android-apps-for-learning.jpg'/></p>
 
 ## Assignments
@@ -69,3 +69,6 @@ While this list has taught me much, you should not limit yousrself to one book, 
 3. *[The Android Hive](https://www.androidhive.info/)*
 4. *[The Android Minworks Guide](https://mindorks.com/)*
 
+---
+
+<p align=center> Made with :heart: by <b>Amr Elzawawy</b>. Wish you a happy <b>learning journey</b> :book: </p>
